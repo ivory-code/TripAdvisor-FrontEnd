@@ -1,4 +1,4 @@
-# WeCode Tripadvisor 클론코딩 프로젝트 (Front-End)
+# Tripadvisor 클론코딩 프로젝트 (Front-End)
 
 ## 프로젝트 소개🙌
 
